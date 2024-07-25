@@ -22,7 +22,17 @@
 </div>
 <div class="content">
     <h1>Bem-vindo, ${sessionScope.usuarioNome}!</h1>
-    <p>Aqui está o conteúdo da página principal.</p>
+    <p>JSP é a sigla para Java Server Pages, uma tecnologia do lado do servidor que permite a criação de conteúdo web dinâmico. Com JSP, é possível embutir código Java em páginas HTML, tornando-as mais interativas e funcionais. O JSP é uma parte integral da plataforma Java EE e é usado para desenvolver aplicações web robustas e escaláveis.</p>
+
+    <h1>Apache Tomcat</h1>
+    <p>O Apache Tomcat é um contêiner de servlets que implementa as especificações de Java Servlet e JavaServer Pages (JSP). Desenvolvido pela Apache Software Foundation, o Tomcat é um servidor web de código aberto que fornece um ambiente para executar o código Java. É uma das soluções mais populares para hospedar aplicações JSP devido à sua facilidade de uso, estabilidade e integração com as tecnologias Java.</p>
+
+    <h1>Integração de JSP com Tomcat e Java</h1>
+    <p>Para executar uma aplicação JSP, é necessário um servidor como o Tomcat, que processa o código JSP e gera o conteúdo HTML dinâmico. O código Java embutido nas páginas JSP é compilado e executado pelo servidor, que então envia a resposta processada de volta ao cliente. Essa integração entre JSP, Tomcat e Java permite o desenvolvimento de aplicações web complexas e dinâmicas.
+    </p>
+
+    <h1>Minha conclusão:</h1>
+    <p> Isso é muito complicativo, muitos cabelos brancos adquiridos, mas, o legal é ver funcionando 😅</p>
 </div>
 </body>
 </html>
